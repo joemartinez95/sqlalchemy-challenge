@@ -1,0 +1,2 @@
+For this exercise, an analysis was performed by pulling data using SQLAlchemy and reviewing data on weather in Hawaii over a specified time period. After performing the analysis, a landing page was made for returning the results based on specific parameters met.
+References: AskBCS assistance for reading the SQLite data and ChatGPT for assistance on plotting and for setting up correct data processing to send results to the webpage.
